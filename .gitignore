@@ -9,3 +9,7 @@ Release/
 *.vcxproj
 *.filters
 *.opendb
+
+#Java
+out/
+*.class
